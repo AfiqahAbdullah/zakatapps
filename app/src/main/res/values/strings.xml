@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Gold Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright©TunaiZakat</string>
+    <string name="About_text"><a href="">Source Code Link</a></string>
+    <string name="developer">NAME: NURUL AFIQAH BINTI ABDULLAH</string>
+    <string name="id">STUDENT ID: 2020828686</string>
+    <string name="group">GROUP: D1CS2405A</string>
+    <string name="pcode">PROGRAMME CODE: ICT602</string>
+</resources>
